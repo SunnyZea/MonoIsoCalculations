@@ -1,2 +1,2 @@
 # MonoIsoCalculations
-Calculate the monoisotopic weights of proteins. 
+First successful calculation of protein weights with respect to all possible isotopic differences in mass.
