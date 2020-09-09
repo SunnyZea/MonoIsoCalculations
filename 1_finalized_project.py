@@ -1,3 +1,7 @@
+## Sunshine Zea Leeuwon
+## 12/23/2019
+## JACS Published
+
 import os
 import math
 
